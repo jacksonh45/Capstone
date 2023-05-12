@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+@media (min-width:400px) {
+    .riley{
+        visibility: hidden;
+    }
+}
+
+body{
+    background-image: url(/Capstone/Mr\ riley.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+p{
+    position: absolute;
+    left: 550px;
+    top: 500px;
+}
+
+#pot{
+    position: absolute;
+    left: 375px;
+}

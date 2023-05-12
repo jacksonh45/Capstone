@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+body{
+    font-family: 'Instrument Serif', serif;
+    background-image: url(slides.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+    height: 100vh;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 20%;
+}
